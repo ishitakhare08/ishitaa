@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Ishita's personal Site!</title>
+        
+    </head>
+    <body>
+        <h1>Euphoria!</h1>
+        <table>
+            <tr>
+
+                <td><img src="ab.jpg" width="100" height="200">this is my Profile pic!</td>
+                <br>
+                <td><h1>ISHITA KHARE</h1>
+                   
+                    <strong>Student at VIT</strong><br>
+                    <strong><em>Bhopal is my home!</em></strong><br>
+                   
+                    <strong><em>Not a typical Gen Z</em></strong>
+                    <p>
+                        I'm a tech enthusiastic and willing to learn and explore more if got the opportunity.On a journey to find new interests , like this one!<br> But to be
+                        honest I like to  read  and Netflix & Chill! <br> Big fan of drama , crime and mystries!<br>Please suggest new ones!</strong>
+                    </p>
+
+            </tr>
+
+        </table>
+        <hr size="4" color="black" noshade>
+        <h2>EDUCATION:</h2>
+        <ol type="1">
+            <li>St. Joseph's Co-ed School</li>
+            <li>VIT Chennai</li>
+        </ol>
+        <hr size="2" color="grey" noshade>
+        <table border="3">
+            <thead>
+                <tr>
+                    <td><strong>Year</strong></td>
+                    <td><strong>Achievements</strong></td>
+                </tr>
+                </thead>
+                <tr>
+                     <td>2007-2012:</td>
+                     <td>Got a lot of certificates</td>
+                </tr>
+                <tr>
+                    <td>2015:</td>
+                    <td>Got to sit in a plane ftft</td>
+                       
+                </tr>
+                <tr>
+                    <td>2018:</td>
+                    <td>travelled across cities alone ftft!</td>
+                </tr>
+                <tr>
+                    <td>2019:</td>
+                    <td>94% in class X</td>
+                </tr>
+                <tr>
+                    <td>2021:</td>
+                    <td>89% in class XII
+
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>2022:</td>
+                    <td>VIT Chennai</td>
+                </tr>
+                
+                     
+                
+            </thead>
+
+        </table>
+        <hr size="2" color="grey" noshade>
+        <h2>HOBBIES:</h2>
+        <ol type="I">
+            <li>Reading</li>
+            <li>Dancing</li>
+            <li>Netflix</li>
+
+        </ol>
+        <hr size="2" color="grey" noshade>
+        <h2>SKILLS:</h2>
+        <table>
+            <tr>
+                <td>Coding</td>
+                <td>⭐️⭐️
+                </td>
+            
+                <td>Drawing</td>
+                <td>⭐️⭐️⭐️⭐️⭐️</td>
+            
+            </tr>
+            <tr>
+                <td>Dancing</td>
+                <td>⭐️⭐️⭐️⭐️</td>
+                <td>Sports</td>
+                <td>⭐️⭐️</td>
+
+            </tr>
+
+            
+
+        </table>
+        <hr size="2" color="grey" noshade>
+        <a href="contact.html"><h2>CONTACT:</h2></a>
+        
+
+           
+        
+
+
+    </body>
+
+    
+
+ 
+    
+
+</html>
